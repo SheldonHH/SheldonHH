@@ -19,16 +19,15 @@
 
 
 
-- bzip2 in Rust
-- Coverage Test for 
-
-
-
 
 - C++ Data Consolidation Platform
 1. Engineered data submission modules in C++, implementing threading and queue mechanisms to handle large-scale data transfers efficiently. Employed XML for data serialization, supporting both full and incremental extraction methods.
 2. Developed file transfer modules using FTP and custom TCP protocols, which involved threading for concurrent downloads/uploads and queue systems for managing transfer requests, ensuring high throughput and reliable data synchronization.
 3. Integrated event-driven architecture within server-side components to optimize performance and scalability, particularly for data processing workflows and synchronization tasks in a distributed database environment using Oracle RAC and standalone instances.
+
+- bzip2 in Rust
+  - Re
+
 
 
 
