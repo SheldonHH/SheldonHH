@@ -16,10 +16,9 @@
 
 2024
 - Trading Exchnage Order Matching System
-
-- **Implemented** a multithreaded trading engine in C++ with Boost.Asio for high-performance async network communication.
-- **Deployed** on Kubernetes to manage multiple client/server instances, simulating real-world high concurrency and load balancing.
-- **Integrated** WebSocket for real-time front-end updates, displaying trading charts, order books, and matched trades.
+1. Implemented a multithreaded trading engine in C++ with Boost.Asio for high-performance async network communication.（Boost.Asio offers cross-platform asynchronous I/O support, simplifying the efficient handling of concurrent network and timer operations.）
+2. Deployed on Kubernetes to manage multiple client/server instances, simulating real-world high concurrency and load balancing.
+3. Integrated WebSocket for real-time front-end updates, displaying trading charts, order books, and matched trades.
 
 
 - C++ Data Consolidation Platform
