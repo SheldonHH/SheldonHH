@@ -15,16 +15,11 @@
 
 
 2024
-- Trading Simulation
-Front-end: HTML/CSS/JavaScript and WebSocket for displaying trading charts, order books, and matched trades.
-Back-end: Multithreaded trading matching engine written in C++ with Boost.Asio for asynchronous network communication.
-Container Orchestration: Kubernetes for deploying and managing multiple client and server instances.
-Project Highlights:
+- Trading Exchnage Order Matching System
 
-Multithreading: Utilized C++ standard library thread pool and condition variables for efficient order processing and matching.
-Boost.Asio: Replaced traditional select and poll system calls with Boost.Asio library for high-performance asynchronous network communication.
-Kubernetes: Deployed and managed the system with Kubernetes, simulating high concurrency and load balancing in a real trading environment.
-Front-end Integration: Real-time display of trading data and order matching via WebSocket, providing an intuitive user experience.
+- **Implemented** a multithreaded trading engine in C++ with Boost.Asio for high-performance async network communication.
+- **Deployed** on Kubernetes to manage multiple client/server instances, simulating real-world high concurrency and load balancing.
+- **Integrated** WebSocket for real-time front-end updates, displaying trading charts, order books, and matched trades.
 
 
 - C++ Data Consolidation Platform
